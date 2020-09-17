@@ -25,7 +25,8 @@ def monopoly_with_third_tier
     }
   }
   
-  hash[:railroads][:rent_in_dollars] = :
+  hash[:railroads][:rent_in_dollars] = :one_piece_owned
+  
 end
 
 def monopoly_with_fourth_tier
